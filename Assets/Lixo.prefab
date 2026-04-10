@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 4363104605068950575}
   m_Layer: 0
   m_Name: Lixo
-  m_TagString: Untagged
+  m_TagString: Lixo
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

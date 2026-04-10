@@ -628,9 +628,5 @@ PrefabInstance:
       propertyPath: m_Name
       value: Lixo
       objectReference: {fileID: 0}
-    - target: {fileID: 1313574577363496746, guid: 96120cbf3b2cc304086a1646c06a01e4, type: 3}
-      propertyPath: m_TagString
-      value: Lixo
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 96120cbf3b2cc304086a1646c06a01e4, type: 3}
