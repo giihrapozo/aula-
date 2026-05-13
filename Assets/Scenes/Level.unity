@@ -582,7 +582,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'PONTOS:
+  m_text: 'Points:
 
 '
   m_isRightToLeft: 0
@@ -925,8 +925,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a997e42d23bbf194fb0936162ce507f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  source: {fileID: 0}
-  lixoSpawnerController: {fileID: 0}
+  source: {fileID: 1372548742}
+  lixoSpawnerController: {fileID: 761277881}
 --- !u!82 &1372548742
 AudioSource:
   m_ObjectHideFlags: 0
